@@ -1,0 +1,8 @@
+{
+  "package": "academic-research-suite",
+  "kind": "ChatGPT Work portable compatibility layer",
+  "source_repository": "Imbad0202/academic-research-skills-codex",
+  "source_commit": "3c37ef8ab480ba1e9370309c24b99977ad44091f",
+  "upstream_license": "CC BY-NC 4.0",
+  "note": "Adapted for stable Work loading; not a byte-for-byte upstream mirror."
+}

@@ -1,0 +1,8 @@
+{
+  "package": "scientific-agent-skills",
+  "kind": "ChatGPT Work portable compatibility layer",
+  "source_repository": "kinandigital/scientific-agent-skills",
+  "source_commit": "36fd74c052b019eebeb8e195d566a00a07fc05b0",
+  "upstream_license": "MIT",
+  "note": "Adapted for stable Work loading; not a byte-for-byte upstream mirror."
+}

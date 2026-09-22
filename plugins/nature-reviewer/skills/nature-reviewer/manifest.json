@@ -1,0 +1,8 @@
+{
+  "package": "nature-reviewer",
+  "kind": "ChatGPT Work portable compatibility layer",
+  "source_repository": "Yuan1z0825/nature-skills",
+  "source_commit": "9c9953a06cd33a88cbd258386a295ca4b6a1ef1e",
+  "upstream_license": "Apache-2.0",
+  "note": "Adapted for stable Work loading; not a byte-for-byte upstream mirror."
+}
