@@ -1,0 +1,33 @@
+{
+  "name": "life-science-research-tools",
+  "owner": {
+    "name": "2789987662-stack"
+  },
+  "description": "ChatGPT Work research tools for life-science projects, including manuscript review, academic research workflows, and curated scientific-agent skills.",
+  "plugins": [
+    {
+      "name": "nature-reviewer",
+      "source": "./",
+      "skills": [
+        "./plugins/nature-reviewer/skills/nature-reviewer"
+      ],
+      "description": "Evidence-bounded Nature-style manuscript and research-project peer review with independent reviewer passes, life-science review gates, and runtime self-checks."
+    },
+    {
+      "name": "academic-research-suite",
+      "source": "./",
+      "skills": [
+        "./plugins/academic-research-suite/skills/academic-research-suite"
+      ],
+      "description": "Academic research suite for deep research, literature review, scientific writing, manuscript review, research pipelines, and experiment planning."
+    },
+    {
+      "name": "scientific-agent-skills",
+      "source": "./",
+      "skills": [
+        "./plugins/scientific-agent-skills/skills/scientific-agent-skills"
+      ],
+      "description": "Curated life-science research workflows for literature review, scientific lookup, scientific writing, bioinformatics, model evaluation, and reproducibility."
+    }
+  ]
+}
